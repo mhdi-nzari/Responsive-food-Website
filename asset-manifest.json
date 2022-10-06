@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Responsive-food-Website/static/css/main.0263b9cd.css",
+    "main.js": "/Responsive-food-Website/static/js/main.471e76c5.js",
+    "static/media/fi1.png": "/Responsive-food-Website/static/media/fi1.3f43e51b6058550d1f44.png",
+    "static/media/logo.png": "/Responsive-food-Website/static/media/logo.0f99324454e3c3ccba98.png",
+    "static/media/f1.png": "/Responsive-food-Website/static/media/f1.c52686695ee9a5c4cd0d.png",
+    "static/media/c1.png": "/Responsive-food-Website/static/media/c1.fb0c24a12fb6ba1154f5.png",
+    "static/media/i1.png": "/Responsive-food-Website/static/media/i1.3d9b129d2c5432c6f1fb.png",
+    "static/media/heroBg.png": "/Responsive-food-Website/static/media/heroBg.c43c4862422e70d88698.png",
+    "static/media/delivery.png": "/Responsive-food-Website/static/media/delivery.bf9130a0962fbe091abc.png",
+    "static/media/avatar.png": "/Responsive-food-Website/static/media/avatar.68cdc4513e601d28a382.png",
+    "static/media/emptyCart.svg": "/Responsive-food-Website/static/media/emptyCart.71ad17e692d71caa77c6c9351f84756b.svg",
+    "static/media/NotFound.svg": "/Responsive-food-Website/static/media/NotFound.4e90bb93460bfd8d9e2c86b42ef91a4a.svg",
+    "index.html": "/Responsive-food-Website/index.html",
+    "main.0263b9cd.css.map": "/Responsive-food-Website/static/css/main.0263b9cd.css.map",
+    "main.471e76c5.js.map": "/Responsive-food-Website/static/js/main.471e76c5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0263b9cd.css",
+    "static/js/main.471e76c5.js"
+  ]
+}
