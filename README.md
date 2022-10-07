@@ -1,4 +1,4 @@
-# 🌟🌟 Full Stack Food Delivery App - React Redux Reducer, Firebase  🌟🌟
+# 🌟 Full Stack Food Delivery App - React Redux Reducer, Firebase  🌟
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Description
